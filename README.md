@@ -2,7 +2,7 @@
 
 Developed by: **Dominique Wilson**
 
-This web app: **Samosa Selector is a playful incremental clicker game, where users earn samosas by clicking a giant samosa icon and unlocking flavorful upgrades like Double Stuffed, Party Pack, and Full Feast. Built with React adn Vite, Samosa Selector showcases dynamic state management, responsive UI, and interactive animations for a smooth and engaging experience. Perfect for practicing React hooks, event handling, and modular component design!**
+This web app: **Samosa Selector is a playful incremental clicker game, where users earn samosas by clicking a giant samosa icon and unlocking flavorful upgrades like Double Stuffed, Party Pack, and Full Feast. Built with React and Vite, Samosa Selector showcases dynamic state management, responsive UI, and interactive animations for a smooth and engaging experience. Perfect for practicing React hooks, event handling, and modular component design!**
 
 Time spent: **3.5** hours spent in total
 
@@ -12,7 +12,6 @@ The following functionality is completed:
 
 
 - [x] **Three upgrades that increase the effectiveness of the user’s cursor at certain point thresholds**
-
 - [x] **A large samosa that the user can click to harvest one samosa at a time** 
 - [x] **A counter displaying the number of samosas the user currently has** 
 - [x] **Three upgrades that increase the effectiveness of the user’s cursor at certain point thresholds**
