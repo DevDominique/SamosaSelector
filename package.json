@@ -1,6 +1,5 @@
 {
   "name": "samosa-selector",
-  "private": true,
   "homepage": "https://devdominique.github.io/SamosaSelector/",
   "version": "0.0.0",
   "type": "module",
